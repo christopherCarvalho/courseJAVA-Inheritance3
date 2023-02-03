@@ -1,1 +1,1 @@
-# courseJAVA-Inheritance3
+# courseJAVA-Inheritance3, we used a products market model.
